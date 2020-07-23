@@ -1,16 +1,19 @@
-### Hi there 👋
+# CHI-HUI CHOU
+I'm a former research assistant at the department of physics at National Taiwan University. I have been a Phd research student in Max-Planck Institute for the physics of the complex systems in Dresden, Germany for 2 years. I'm leaving the academics and looking for works in IT industry. 
 
-<!--
-**Max-Chou/Max-Chou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About this repository 
+* Some reseach projects    
+* Some projects  
+* Some homeworks  
+* My Blog  
 
-Here are some ideas to get you started:
+Some side projects for job interviews. And some of them are my research works or homeworks. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Second repository (Bitbucket)
+* [Open Course](https://bitbucket.org/open-courses/)  
+* Book  
+* Leetcode 
+* Kaggle  
+
+Some projects and homeworks from books and other platforms. But they means nothing for some people, so I put them in Bitbucket.
+
