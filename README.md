@@ -3,14 +3,34 @@ I'm a former research assistant at the department of physics at National Taiwan 
 
 
 ## About this repository 
-* Some reseach projects    
-* Some projects  
-* Some homeworks  
 
-The projects are worth being here.
+### Prefix
+
+* interview
+
+Projects for job interviews only and learning purpose.
+
+* demo
+
+Simple demonstrations, tutorials or experiments.
+
+* review
+
+Review on some solutions and some problems.
+
+* api
+
+API resources applications.
+
+* app
+
+Full-Stack applications.
+
+### Without Prefix
+
+Projects, Libraries, Extensions, Frameworks
 
 
 ## Second repository [Bitbucket](https://bitbucket.org/afai97202013/)
 
-* Experiments
-
+Developments and Designs...
